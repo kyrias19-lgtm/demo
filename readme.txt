@@ -1,6 +1,7 @@
 je m'appel sabin j'utilise le pc de nice plus 
 En cours d'introduction au versioning avec git je suis sur master  
 je suis sur la branch features 
-je suis sur la branch test 
+je suis sur la branch test https://github.com/kyrias19-lgtm/demo/edit/master/readme.txt
 Je suis sur le dépot distant je m'appel sabin 
 test de la commande pull
+test2 de la command pull
